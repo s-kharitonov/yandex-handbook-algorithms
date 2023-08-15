@@ -6,6 +6,7 @@ java {
 dependencies {
     testImplementation(platform(libs.org.junit))
     testImplementation("org.junit.jupiter:junit-jupiter")
+    testImplementation("org.junit.jupiter:junit-jupiter-params")
     testImplementation(libs.org.assertj)
 }
 
