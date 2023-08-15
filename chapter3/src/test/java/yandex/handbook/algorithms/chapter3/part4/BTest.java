@@ -1,6 +1,5 @@
 package yandex.handbook.algorithms.chapter3.part4;
 
-
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
