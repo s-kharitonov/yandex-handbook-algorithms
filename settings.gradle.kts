@@ -23,3 +23,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "yandex-practicum-algorithms"
 include("chapter3")
+include("chapter4")
+include("chapter5")
